@@ -1,0 +1,7 @@
+aaaa 15
+bbbb 2
+cccc 1
+dddd 0
+eeee 0
+qwe 1
+
